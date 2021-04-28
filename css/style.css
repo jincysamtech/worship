@@ -1,0 +1,225 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather", serif;
+  color: #181b1b;
+  background-color: #ffe0d8;
+}
+
+hr {
+  border: dotted #7a8383 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: "New Rocker", cursive;
+  font-size: 5.625rem;
+}
+
+p {
+  line-height: 2;
+}
+
+a {
+  color: #3f0447;
+  font-family: "Montserrat", sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #ffffff;
+}
+h2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.5rem;
+  color: #11999e;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: "Flavors", cursive;
+}
+
+.music {
+  width: 250px;
+  position: absolute;
+  right: 200px;
+  top: 50px;
+}
+
+.girl {
+  width: 300px;
+}
+
+.gif-image {
+  width: 200px;
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.TopContainer {
+  background-image: url("https://media.swncdn.com/cms/CW/Couples/singles/52334-praising-god-1200.1200w.tn.jpg");
+  background-size: cover;
+  padding-top: 100px;
+}
+
+.middle-container {
+  background-color: #ffe0d8;
+}
+
+.bottom-container {
+  background-color: #a685e2;
+  padding: 50px 0px 20px;
+}
+
+.wheat {
+  font-family: "Flavors", cursive;
+}
+
+.para {
+  font-family: "Paprika", cursive;
+  width: 50%;
+  margin: auto;
+}
+
+.para1 {
+  font-family: "Paprika", cursive;
+}
+
+.para2 {
+  font-family: "Paprika", cursive;
+}
+
+.imp {
+  text-decoration: underline;
+  font-size: 30px;
+}
+
+.love {
+  text-decoration: underline;
+  color: red;
+}
+
+.pic {
+  border-radius: 100%;
+  width: 300px;
+  height: 350px;
+}
+
+.underline {
+  text-decoration: underline;
+}
+.B {
+  color: blue;
+}
+.O {
+  color: rgb(255, 0, 140);
+}
+.N {
+  color: rgb(123, 14, 156);
+}
+.J {
+  color: rgb(3, 80, 3);
+}
+.o {
+  color: rgb(216, 69, 11);
+}
+.U {
+  color: rgb(255, 0, 0);
+}
+.R {
+  color: rgb(0, 153, 255);
+}
+
+.bon {
+  font-family: "Mystery Quest", cursive;
+  font-size: 75px;
+}
+
+.skill-row {
+  width: 60%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.worthship {
+  width: 50%;
+  float: left;
+  margin-right: 30px;
+}
+
+.songs {
+  width: 50%;
+  float: right;
+  margin-left: 30px;
+}
+
+.lyrics1 {
+  text-decoration: underline;
+  font-size: 2.5rem;
+  margin: 0;
+  padding-top: 40px;
+}
+
+.middle-container {
+  margin: 100px 0px;
+}
+
+.lyricscontain {
+  background-color: #eca3f5;
+}
+
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -webkit-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  color: #ffffff;
+  font-family: "Montserrat", sans-serif;
+  font-size: 20px;
+  font-weight: 200;
+  padding: 20px;
+  -webkit-box-shadow: 1px 1px 20px 0 #000000;
+  -moz-box-shadow: 1px 1px 20px 0 #000000;
+  box-shadow: 1px 1px 20px 0 #000000;
+  text-shadow: 1px 1px 20px #000000;
+  border: solid #337fed 1px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.btn:hover {
+  border: solid #ffffff 1px;
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -webkit-gradient(to bottom, #30e3cb, #2bc4ad);
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  text-decoration: none;
+}
+
+.contact-message {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.copyright {
+  color: blueviolet;
+  font-size: 0.75rem;
+  padding: 20px 0px;
+}
